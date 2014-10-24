@@ -1,0 +1,432 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GestionComercial
+</name>
+</assembly>
+<members>
+<member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ArticulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.TarifasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LineasAlbaranDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieAlbaranDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.FormasPagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.IVADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LibroIvaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieAlbaranCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LineasFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ArticulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.TarifasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LineasAlbaranRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieAlbaranRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.FormasPagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.IVARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LibroIvaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieAlbaranCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LineasFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ArticulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.ProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.TarifasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LineasAlbaranRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieAlbaranRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.FormasPagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.IVARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LibroIvaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieAlbaranCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.CabPieFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet.LineasFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.ArticulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.ProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TarifasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.LineasAlbaranTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.CabPieAlbaranTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.FormasPagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.IVATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.LibroIvaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.CabPieAlbaranCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.CabPieFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.LineasFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GestionComercial.DistribuidoraJuguetesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(GestionComercial.DistribuidoraJuguetesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(GestionComercial.DistribuidoraJuguetesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.UpdateAll(GestionComercial.DistribuidoraJuguetesDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:GestionComercial.DistribuidoraJuguetesDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:GestionComercial.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:GestionComercial.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:GestionComercial.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.ArticulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.CabPieAlbaranDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.FormasPagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.LineasAlbaranDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.CabPieFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.LineasFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.RecibosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.ArticulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.CabPieAlbaranRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.FormasPagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.LineasAlbaranRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.CabPieFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.LineasFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.RecibosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.ArticulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.CabPieAlbaranRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.FormasPagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.LineasAlbaranRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.CabPieFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.LineasFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet.RecibosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.ArticulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.CabPieAlbaranTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.FormasPagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.LineasAlbaranTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.CabPieFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.LineasFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.RecibosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GestionComercial.NuevoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(GestionComercial.NuevoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(GestionComercial.NuevoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.UpdateAll(GestionComercial.NuevoDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:GestionComercial.NuevoDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,279 @@
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+C:\Users\Usuario1\Desktop\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+C:\Users\Usuario1\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+C:\Users\Usuario1\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+C:\Users\Usuario1\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource.read.1.tlog
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dam2_1314\Beatriz\GestionComercialMio\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+C:\Dam2_1314\Beatriz\GestionComercialMio\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+C:\Dam2_1314\Beatriz\GestionComercialMio\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+C:\Dam2_1314\Beatriz\GestionComercialMio\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+C:\Users\Usuario1\Downloads\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+C:\Users\Usuario1\Downloads\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+C:\Users\Usuario1\Downloads\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+C:\Users\Usuario1\Downloads\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource.write.1.tlog
+T:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+\\172.20.0.71\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+Z:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+Z:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+Z:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+Z:\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+Z:\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirFactura.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.LibroIVA.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+J:\ACTUAL GCOMERCIAL\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirFactura.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.LibroIVA.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\BEA\Desktop\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFacturarClientes.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirFactura.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirRecibo.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.LibroIVA.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+\\SERDOMCLOUDBOSC\UnidadF\DAM2_1314\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.exe
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\bin\Debug\GestionComercial.xml
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFacturarClientes.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirFactura.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirRecibo.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.LibroIVA.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial Jugueteria Actualizado\GComercial\GestionComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.exe
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.xml
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFacturarClientes.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirFactura.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirRecibo.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.LibroIVA.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\GComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.exe.config
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.exe
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.xml
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.pdb
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.exe
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.pdb
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\bin\Debug\GestionComercial.xml
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForArticulos.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForClientes.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForCompras.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEntAlbaran.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFacturarClientes.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForFormasPago.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirFactura.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForImprimirRecibo.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForIVA.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMantenimientoAlbaran.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForMenu.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForEmpresa.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForProveedores.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.ForTarifas.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.LibroIVA.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.Resources.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GestionComercial.Visor.resources
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\ResGen.read.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Dam2_1314\Beatriz\GComercial\GestionComercial\obj\x86\Debug\ResGen.write.1.tlog
